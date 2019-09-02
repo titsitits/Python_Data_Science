@@ -1,4 +1,4 @@
-# UNamur_Python_Analytics
+# Python - Data analytics (UNamur BA3 Gestion)
 
 ## Chapitres dans Google Colab
 
