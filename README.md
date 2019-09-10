@@ -1,4 +1,4 @@
-# Python - Data analytics (UNamur BA3 Gestion)
+# Python - Data Science introduction
 
 ## Chapitres dans Google Colab
 
