@@ -1,4 +1,4 @@
-# Python - Data Science introduction
+# Python - Data Science Introduction
 
 ## Chapitres dans Google Colab
 
