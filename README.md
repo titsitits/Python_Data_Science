@@ -1,4 +1,4 @@
-# Introduction to Python for Data Science
+# Introduction au langage Python pour l'analyse de données
 
 ## Chapitres dans Google Colab
 
