@@ -13,4 +13,5 @@
 8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/8_Example_Ames_Housing_Dataset.ipynb)
 
 Author: Mickaël Tits, CETIC, mickael.tits@cetic.be
+
 Copyright: CETIC asbl - 2019
