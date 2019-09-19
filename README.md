@@ -26,7 +26,7 @@ Pour aider l'étudiant au cours de son apprentissage, voici quelques ressources 
 
 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) est un service donnant gratuitement accès à une machine virtuelle, disposant déjà d'un interpréteur Python et de nombreuses librairies préinstallées. Il permet de rapidement apprendre le Python sans s'encombrer de problématiques telles que les performances d'une machine locale et la gestion de l'interpréteur Python et de nombreuses librairies.
 
-Pour installer Python localement, la distribution Anaconda est recommandé, ainsi que l'environnement Jupyter Lab : https://www.anaconda.com/distribution/
+Pour installer Python localement, la distribution Anaconda est recommandée, ainsi que l'environnement Jupyter Lab : https://www.anaconda.com/distribution/
 
 Les librairies Python utilisées dans ce cours, et en partitulier Pandas, disposent de très nombreuses méthodes. Bien qu'une requête sur un moteur de recherche permet d'obtenir vite une réponse à une question de programmation, il reste intéressant d'avoir une idée des possibilités et limitations de ces librairies. 
 Pour Pandas, les méthodes les plus souvent utilisées sont les méthodes des objets [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html), [Series](https://pandas.pydata.org/pandas-docs/stable/reference/series.html), et [GroupBy](https://pandas.pydata.org/pandas-docs/stable/reference/groupby.html). Toutes les librairies présentées se basent sur la librairie de calcul scientifique Numpy, et la plupart des opérations mathématiques dépendent de méthodes appliquées sur l'objet [N-dimensional Array (ndarray)](https://docs.scipy.org/doc/numpy/reference/arrays.ndarray.html).
