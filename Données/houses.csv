@@ -1,0 +1,14 @@
+,address,price,rooms,surface,website
+0,"Rue de Fer 26, 5000 Namur",400000.0,4.0,150,immoweb
+2,"Porte de Namur 25, Bruxelles",400000.0,3.0,120,immoweb
+3,"Rue de L'Eglise 42, Charleroi",150000.0,5.0,150,immoweb
+4,"Rue Saint-ghislain 30, 6224 Fleurus",330000.0,5.0,320,immoweb
+6,"Rue de la Closière 20, Fleurus",230000.0,3.0,170,immoweb
+10,"Rue de Bruxelles 42, 5000 Namur",350000.0,4.0,200,immovlan
+11,"Rue de la Loi 50, Bruxelles",700000.0,3.0,220,immovlan
+12,"Rue de la Loi 51, Bruxelles",280000.0,3.0,120,immoweb
+13,"Rue de la Loi 52, Bruxelles",400000.0,4.0,150,immovlan
+14,"Rue de la Loi 53, Bruxelles",480000.0,5.0,170,immovlan
+15,"Rue de Fer 27, Namur",280000.0,3.0,140,immoweb
+16,"Rue de Fer 28, Namur",320000.0,4.0,160,immoweb
+17,"Rue de Fer 29, Namur",350000.0,5.0,180,immovlan
