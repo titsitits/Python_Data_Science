@@ -1,3 +1,5 @@
+Author: Mickaël Tits, CETIC, mickael.tits@cetic.be
+
 # Introduction au langage Python pour l'analyse de données
 
 Ce cours, à la fois minimaliste et pratique, vous permettra :
@@ -30,7 +32,5 @@ Pour installer Python localement, la distribution Anaconda est recommandée, ain
 
 Les librairies Python utilisées dans ce cours, et en partitulier Pandas, disposent de très nombreuses méthodes. Bien qu'une requête sur un moteur de recherche permet d'obtenir vite une réponse à une question de programmation, il reste intéressant d'avoir une idée des possibilités et limitations de ces librairies. 
 Pour Pandas, les méthodes les plus souvent utilisées sont les méthodes des objets [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html), [Series](https://pandas.pydata.org/pandas-docs/stable/reference/series.html), et [GroupBy](https://pandas.pydata.org/pandas-docs/stable/reference/groupby.html). Toutes les librairies présentées se basent sur la librairie de calcul scientifique Numpy, et la plupart des opérations mathématiques dépendent de méthodes appliquées sur l'objet [N-dimensional Array (ndarray)](https://docs.scipy.org/doc/numpy/reference/arrays.ndarray.html).
-
-Author: Mickaël Tits, CETIC, mickael.tits@cetic.be
 
 Copyright: CETIC asbl - 2019
