@@ -1,6 +1,8 @@
-Author: Mickaël Tits, CETIC, mickael.tits@cetic.be
+
 
 # Introduction au langage Python pour l'analyse de données
+
+Author: Mickaël Tits, CETIC, mickael.tits@cetic.be
 
 Ce cours, à la fois minimaliste et pratique, vous permettra :
 
