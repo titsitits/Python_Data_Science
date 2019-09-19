@@ -1,0 +1,12 @@
+,address,price,rooms,surface,website,city,price_per_m2,price_per_room
+0,"Rue de Fer 26, 5000 Namur",400000.0,4.0,150,immoweb,Namur,2666.6666666666665,100000.0
+2,"Porte de Namur 25, Bruxelles",400000.0,3.0,120,immoweb,Bruxelles,3333.3333333333335,133333.33333333334
+4,"Rue Saint-ghislain 30, 6224 Fleurus",330000.0,5.0,320,immoweb,Fleurus,1031.25,66000.0
+6,"Rue de la Closière 20, Fleurus",230000.0,3.0,170,immoweb,Fleurus,1352.9411764705883,76666.66666666667
+10,"Rue de Bruxelles 42, 5000 Namur",350000.0,4.0,200,immovlan,Namur,1750.0,87500.0
+12,"Rue de la Loi 51, Bruxelles",280000.0,3.0,120,immoweb,Bruxelles,2333.3333333333335,93333.33333333333
+13,"Rue de la Loi 52, Bruxelles",400000.0,4.0,150,immovlan,Bruxelles,2666.6666666666665,100000.0
+14,"Rue de la Loi 53, Bruxelles",480000.0,5.0,170,immovlan,Bruxelles,2823.529411764706,96000.0
+15,"Rue de Fer 27, Namur",280000.0,3.0,140,immoweb,Namur,2000.0,93333.33333333333
+16,"Rue de Fer 28, Namur",320000.0,4.0,160,immoweb,Namur,2000.0,80000.0
+17,"Rue de Fer 29, Namur",350000.0,5.0,180,immovlan,Namur,1944.4444444444443,70000.0
