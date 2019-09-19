@@ -1,10 +1,10 @@
 # Introduction au langage Python pour l'analyse de données
 
-Ce cours, à la fois minimaliste et pratique, permet de:
+Ce cours, à la fois minimaliste et pratique, vous permettra de:
 
-* découvrir rapidement les concepts essentiels de la programmation en Python,
-* d'apprendre à maîtriser les librairies les plus utilisées pour l'analyse de données (Data Science),
-* et de se familiariser avec les concepts fondamentaux de l'apprentissage automatique (Machine Learning). 
+* découvrir rapidement les concepts essentiels de la programmation en **Python**,
+* d'apprendre à maîtriser les librairies les plus utilisées pour l'analyse de données (**Data Science**),
+* et de vous familiariser avec les concepts fondamentaux de l'apprentissage automatique (**Machine Learning**). 
 
 Ce cours s'addresse donc principalement aux personnes désireuses de rapidement mettre le pied à l'étrier dans ce domaine passionnant, ou à toute personne dont l'activité professionnelle, liée de près ou de loin aux sciences des données, nécessite d'avoir un aperçu concret de ce domaine et de ce qu'il permet de faire.
 
