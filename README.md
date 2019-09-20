@@ -14,10 +14,10 @@ Ce cours s'addresse donc principalement aux personnes désireuses de rapidement 
 
 ## Chapitres dans Google Colab
 
-Chaque chapitre, entièrement contenu dans un **notebook Jupyter**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de developpement en Python (via des notebooks Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. Chaque utilisateur (connecté à un compte Google) peut disposer d'une machine virtuelle temporaire en ligne, lui permettant d'exécuter des Notebooks directement à partir d'une page Web, d'enregistrer ces Notebooks dans Google Drive, et de les partager aussi facilement qu'un autre document cloud (cfr Google Docs ou Google Sheet).
+Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de developpement en Python (via des notebooks Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. Chaque utilisateur (connecté à un compte Google) peut disposer d'une machine virtuelle temporaire en ligne, lui permettant d'exécuter des Notebooks directement à partir d'une page Web, d'enregistrer ces Notebooks dans Google Drive, et de les partager aussi facilement qu'un autre document cloud (cfr Google Docs ou Google Sheet).
 
 
-0. [Premier notebook Jupyter dans Google Colab](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/0_Premier_Notebook.ipynb)
+0. [Premier notebook iPython dans Google Colab](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/0_Premier_Notebook.ipynb)
 1. [Introduction au langage de programmation Python](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/1_Introduction.ipynb)
 2. [Les collections d'objets Python](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/2_Collections.ipynb)
 3. [Concepts avancés de programmation: exceptions, fonctions, objets](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/3_Advanced_Python.ipynb)
