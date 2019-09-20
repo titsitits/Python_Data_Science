@@ -1,2 +1,12 @@
 Images/growth_major_languages-1-1024x878.png
 .ipynb_checkpoints/
+mysubmission_linear_regression.csv
+mysubmission_catboost.csv
+mysubmission_blend.csv
+catboost_info/time_left.tsv
+catboost_info/test_error.tsv
+catboost_info/test/events.out.tfevents
+catboost_info/learn_error.tsv
+catboost_info/learn/events.out.tfevents
+catboost_info/catboost_training.json
+mysubmission_polynomial_regression.csv
