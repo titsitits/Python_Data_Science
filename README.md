@@ -17,15 +17,40 @@ Ce cours s'addresse donc principalement aux personnes désireuses de rapidement 
 Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de programmation en Python (via des notebooks Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. Chaque utilisateur (connecté à un compte Google) peut disposer d'une machine virtuelle temporaire en ligne, lui permettant d'exécuter des Notebooks directement à partir d'une page Web, d'enregistrer ces Notebooks dans Google Drive, et de les partager aussi facilement qu'un autre document cloud (cfr Google Docs ou Google Sheet).
 
 
-0. [Premier notebook iPython dans Google Colab](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/0_Premier_Notebook.ipynb)
-1. [Introduction au langage de programmation Python](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/1_Introduction.ipynb)
-2. [Les collections d'objets Python](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/2_Collections.ipynb)
-3. [Concepts avancés de programmation: exceptions, fonctions, objets](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/3_Advanced_Python.ipynb)
-4. [Un exemple concret: analysons quelques biens immobiliers...](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/4_Example.ipynb)
-5. [Les librairies Python pour l'analyse de données](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/5_Python_packages.ipynb)
-6. [Introduction au Data Mining et à la visualisation de données](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/6_Data_Mining.ipynb)
-7. [Introduction au Machine Learning](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/7_Machine_Learning_Introduction.ipynb)
-8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/8_Example_Ames_Housing_Dataset.ipynb)
+0. [Premier notebook iPython dans Google Colab](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/0_Premier_Notebook.ipynb)
+1. [Introduction au langage de programmation Python](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/1_Introduction.ipynb)
+2. [Les collections d'objets Python](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/2_Collections.ipynb)
+3. [Concepts avancés de programmation: exceptions, fonctions, objets](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/3_Advanced_Python.ipynb)
+4. [Un exemple concret: analysons quelques biens immobiliers...](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/4_Example.ipynb)
+5. [Les librairies Python pour l'analyse de données](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/5_Python_packages.ipynb)
+6. [Introduction au Data Mining et à la visualisation de données](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/6_Data_Mining.ipynb)
+7. [Introduction au Machine Learning](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/7_Machine_Learning_Introduction.ipynb)
+8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/8_Example_Ames_Housing_Dataset.ipynb)
+
+## Chapitres en lecture seule
+
+Les notebooks peuvent être visualisés simplement grâce à nbviewer:
+
+### Notebooks non-exécutés
+0. [Premier notebook iPython dans Google Colab](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/0_Premier_Notebook.ipynb)
+1. [Introduction au langage de programmation Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/1_Introduction.ipynb)
+2. [Les collections d'objets Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/2_Collections.ipynb)
+3. [Concepts avancés de programmation: exceptions, fonctions, objets](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/3_Advanced_Python.ipynb)
+4. [Un exemple concret: analysons quelques biens immobiliers...](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/4_Example.ipynb)
+5. [Les librairies Python pour l'analyse de données](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/5_Python_packages.ipynb)
+6. [Introduction au Data Mining et à la visualisation de données](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/6_Data_Mining.ipynb)
+7. [Introduction au Machine Learning](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/7_Machine_Learning_Introduction.ipynb)
+8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/8_Example_Ames_Housing_Dataset.ipynb)
+### Notebooks exécutés (avec les résultats des cellules):
+0. [Premier notebook iPython dans Google Colab](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/0_Premier_Notebook.ipynb)
+1. [Introduction au langage de programmation Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/1_Introduction.ipynb)
+2. [Les collections d'objets Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/2_Collections.ipynb)
+3. [Concepts avancés de programmation: exceptions, fonctions, objets](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/3_Advanced_Python.ipynb)
+4. [Un exemple concret: analysons quelques biens immobiliers...](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/4_Example.ipynb)
+5. [Les librairies Python pour l'analyse de données](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/5_Python_packages.ipynb)
+6. [Introduction au Data Mining et à la visualisation de données](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/6_Data_Mining.ipynb)
+7. [Introduction au Machine Learning](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/7_Machine_Learning_Introduction.ipynb)
+8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/8_Example_Ames_Housing_Dataset.ipynb)
 
 ## Ressources supplémentaires
 
@@ -40,6 +65,6 @@ Pour Pandas, les méthodes les plus souvent utilisées sont les méthodes des ob
 
 ## Références
 
-Le jeu de données utilisé comme exemple dans le [Chapitre 8](https://colab.research.google.com/github/titsitits/UNamur_Python_Analytics/blob/master/8_Example_Ames_Housing_Dataset.ipynb) et est disponible sur [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course).
+Le jeu de données utilisé comme exemple dans le [Chapitre 8](https://colab.research.google.com/github/titsitits/Python_Data_Science/blob/master/8_Example_Ames_Housing_Dataset.ipynb) et est disponible sur [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course).
 
 *Copyright: CETIC asbl - 2019*
