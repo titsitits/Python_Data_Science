@@ -32,7 +32,7 @@ Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, es
 Les notebooks peuvent être visualisés simplement grâce à nbviewer:
 
 ### Notebooks non-exécutés
-0. [Premier notebook iPython dans Google Colab](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/0_Premier_Notebook.ipynb)
+
 1. [Introduction au langage de programmation Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/1_Introduction.ipynb)
 2. [Les collections d'objets Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/2_Collections.ipynb)
 3. [Concepts avancés de programmation: exceptions, fonctions, objets](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/3_Advanced_Python.ipynb)
@@ -41,8 +41,9 @@ Les notebooks peuvent être visualisés simplement grâce à nbviewer:
 6. [Introduction au Data Mining et à la visualisation de données](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/6_Data_Mining.ipynb)
 7. [Introduction au Machine Learning](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/7_Machine_Learning_Introduction.ipynb)
 8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/8_Example_Ames_Housing_Dataset.ipynb)
+
 ### Notebooks exécutés (avec les résultats des cellules):
-0. [Premier notebook iPython dans Google Colab](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/0_Premier_Notebook.ipynb)
+
 1. [Introduction au langage de programmation Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/1_Introduction.ipynb)
 2. [Les collections d'objets Python](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/2_Collections.ipynb)
 3. [Concepts avancés de programmation: exceptions, fonctions, objets](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/3_Advanced_Python.ipynb)
