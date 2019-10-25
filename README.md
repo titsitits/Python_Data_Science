@@ -54,7 +54,7 @@ Les notebooks peuvent être visualisés simplement grâce à nbviewer:
 8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/8_Example_Ames_Housing_Dataset.ipynb)
 
 ### Solutions des exercices
-[Solutions des exercices](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Exercises_Solutions.ipynb)
+[Solutions des exercices](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Exercise_Solutions.ipynb)
 
 
 ## Ressources supplémentaires
