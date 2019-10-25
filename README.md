@@ -53,6 +53,10 @@ Les notebooks peuvent être visualisés simplement grâce à nbviewer:
 7. [Introduction au Machine Learning](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/7_Machine_Learning_Introduction.ipynb)
 8. [Un exemple concret: estimation du prix d'une maison à Ames (Iowa, USA)](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Completed_notebooks/8_Example_Ames_Housing_Dataset.ipynb)
 
+### Solutions des exercices
+[Solutions des exercices](https://nbviewer.jupyter.org/github/titsitits/Python_Data_Science/blob/master/Exercises_Solutions.ipynb)
+
+
 ## Ressources supplémentaires
 
 Pour aider l'étudiant au cours de son apprentissage, voici quelques ressources utiles:
